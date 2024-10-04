@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BranchSchedule enabled="true" releaseToBuild="true">
+    <MediaEntries>
+        <MediaEntry>
+            <Name>desktoptargetcompdb_core_en-us</Name>
+            <Flavors>arm64fre,amd64fre</Flavors>
+        </MediaEntry>
+        <MediaEntry>
+            <Name>desktoptargetcompdb_professional_en-us</Name>
+            <Flavors>x86fre, arm64fre,amd64fre</Flavors>
+        </MediaEntry>
+        <MediaEntry>
+            <Name>component_validation_en-us</Name>
+            <Flavors>x86fre,amd64fre,arm64fre</Flavors>
+        </MediaEntry>
+    </MediaEntries>
+</BranchSchedule>
